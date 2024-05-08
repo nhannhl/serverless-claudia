@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "claudia-hello-executor",
+    "name": "claudia-hello",
+    "region": "ap-southeast-1"
+  }
+}
